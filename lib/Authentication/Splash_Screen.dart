@@ -41,12 +41,11 @@ class SplashScreenState extends State<SplashScreen> {
           duration: Duration(seconds: 2),
           child: Center(
             child: Text(
-              "Authenticator",
+              "Splash",
               style: TextStyle(
                 color: Colors.redAccent.shade700,
                 fontWeight: FontWeight.bold,
                 fontSize: 70,
-                fontFamily: 'Splash',
                 letterSpacing: 2,
               ),
             ),

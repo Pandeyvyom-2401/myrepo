@@ -65,6 +65,7 @@ class Welcome_page extends StatelessWidget {
                             onPressed: () {
                             },
                           ),
+                          Text("Skip >",style: TextStyle(color: Colors.black,fontSize: 18,fontWeight: FontWeight.w700),)
                         ],
                       ),
                     ),
